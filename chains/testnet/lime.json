@@ -1,0 +1,22 @@
+{
+  "chain_name": "eved",
+  "api": ["http://127.0.0.1:1317"],
+  "rpc": ["http://127.0.0.1:26656"],
+  "coingecko": "",
+  "snapshot_provider": "",
+  "sdk_version": "0.47.1",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "addr_prefix": "eve",
+  "type": "testnet",
+  "logo": "https://cdn.prod.website-files.com/660a86b7bec017e773968f3a/66f292ed1eae3fcb348c9bd7_dApps.svg",
+  "theme_color": "#FF97D6",
+  "assets": [
+    {
+      "base": "ueve",
+      "symbol": "EVE",
+      "exponent": "6",
+      "logo": "https://cdn.prod.website-files.com/660a86b7bec017e773968f3a/660d6a391700e6b41f95c084_LimeChan-Light.svg"
+    }
+  ]
+}
